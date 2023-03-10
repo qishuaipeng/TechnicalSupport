@@ -101,9 +101,9 @@ Click on the imported text file to enter the reading page
 
 2. You can also view the developer's future development plans here
 
-3、这里还有“阅读事不自动锁屏”、“点击左侧翻到下一页”、“翻书方式”、“语言”等设置
+3、这里还有“阅读时不自动锁屏”、“点击左侧翻到下一页”、“翻书方式”、“语言”等设置
 
-3. There are Settings like "No automatic screen lock for reading", "Click the left side to turn to the next page", "book turning method" and "Language"
+3. There are Settings like "Reading does not automatically lock the screen", "Click the left side to turn to the next page", "book turning method" and "Language"
 
 4、还能在这里清理缓存垃圾以及查看一些“奇迹读书”的信息
 
