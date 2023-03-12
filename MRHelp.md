@@ -4,6 +4,10 @@
 
 "Miracle Reading" is a simple, fast and efficient text reading software, the developer is determined to create a good and practical reading software for friends who love reading books.
 
+目前仅支持txt文本阅读。
+
+Currently, only txt text is supported.
+
 
 ## 如何导入文件
 ## How to import Files
